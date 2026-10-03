@@ -99,7 +99,7 @@ function App() {
               <h3>LifeLink</h3>
               <p>A blood donation platform designed to connect donors and patients and simplify blood requests.</p>
               <div className="tags"><span>React</span><span>Node.js</span><span>MongoDB</span></div>
-              <a href="https://github.com/Ayushishukla340" target="_blank" rel="noreferrer">Explore on GitHub ↗</a>
+              <a href="https://github.com/Ayushishukla340/LIFELINK-Blood-Donation-Platform" target="_blank" rel="noreferrer">Explore on GitHub ↗</a>
             </div>
           </article>
 
